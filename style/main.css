@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Roboto';
+  font-size: 22px;
+  background-color: #141414;
+}
+.topnav {
+  background-color: #141414;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color:  #b3b3b3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  color: #808080;
+}
+.topnav a.active {
+  font: bold;
+  color: #FFFFFF;
+}
+.topnav img {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
